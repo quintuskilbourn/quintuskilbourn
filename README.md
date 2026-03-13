@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @quintuskilbourn
-- 👀 I’m interested in blockchain, algorithms and CS theory in general.
+- 👀 I’m interested in algorithmic coordination, secure open silicon and CS theory in general.
 - 📫 quintuskilbourn@gmail.com
